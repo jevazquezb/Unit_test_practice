@@ -1,0 +1,23 @@
+{
+  "name": "unit_test_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jevazquezb/Unit_test_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jevazquezb/Unit_test_practice/issues"
+  },
+  "homepage": "https://github.com/jevazquezb/Unit_test_practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
